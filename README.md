@@ -5,8 +5,10 @@ I'm a passionate developer focused on building modern web applications and explo
 ### 📊 My GitHub Statistics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MineraleYT&theme=dracula)
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MineraleYT&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MineraleYT&theme=dracula) |
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MineraleYT&theme=dracula) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MineraleYT&theme=dracula&utcOffset=1) |
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MineraleYT&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MineraleYT&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MineraleYT&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MineraleYT&theme=dracula&utcOffset=1)
 
 ---
 ### 🛠️ Technologies & Tools
