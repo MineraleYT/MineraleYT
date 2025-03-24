@@ -2,9 +2,6 @@
 
 I'm a passionate developer focused on building modern web applications and exploring new technologies. Welcome to my GitHub profile!
 
-[![Profile Views](https://komarev.com/ghpvc/?username=MineraleYT&color=blueviolet)](https://github.com/MineraleYT)
-[![GitHub followers](https://img.shields.io/github/followers/MineraleYT?style=social)](https://github.com/MineraleYT?tab=followers)
-
 ### 📊 My GitHub Statistics
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MineraleYT&theme=dracula)
@@ -28,6 +25,3 @@ I'm a passionate developer focused on building modern web applications and explo
 - Full-stack Development
 - Open Source Contribution
 - Software Architecture
-
-### 📫 Connect with Me
-[![GitHub](https://img.shields.io/badge/GitHub-MineraleYT-black?style=flat&logo=github)](https://github.com/MineraleYT)
